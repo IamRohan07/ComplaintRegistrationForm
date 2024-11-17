@@ -1,7 +1,3 @@
-**Log on to codeastro.com for more projects!**
-
-**Developed by Suraj Bhandarkar**
-
 **Instructions**
 (You can also create and use virtual environment)
 - Install the Requirements: pip install -r requirements.txt
